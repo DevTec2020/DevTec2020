@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=DevTec2020)<br>
 # Olá, sou Leonardo Batista 
 
-Atualmente trabalho analista de suporte e estou migrando para a area de desenvolvimento focando em desenvolvimento FrontEnd.
+Atualmente trabalho como analista de suporte e estou migrando para a area de desenvolvimento focando em desenvolvimento FrontEnd.
 
 
  💻 Tecnologias e ferramentas:
