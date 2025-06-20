@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor web apaixonado por tecnologia, com experiência em front-end e back-end. Trabalho com React, Tailwind, Node.js, e outras ferramentas modernas do ecossistema JavaScript. Comecei minha trajetória na área de TI aos 16 anos, acumulando experiência em suporte técnico e metodologias ágeis, como Scrum e ITIL. Certificado em diversas áreas, participo ativamente de eventos e comunidades tech, sempre em busca de aprendizado e inovação. Transformo ideias em soluções funcionais e responsivas.</p>
+<p align="left">Sou consultor de suporte e tenho conhecimento em desenvolvimento Web atuando com criação e hospedagem de sites, incluindo migração e gerenciamento em plataformas como cPanel e HostGator. Participo ativamente de eventos de tecnologia, sempre em busca de aprender novas ferramentas assim transformo ideias em soluções web funcionais e responsivas.</p>
 
 ###
 
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
