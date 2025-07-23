@@ -51,6 +51,12 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/zod/3178C6" height="30" alt="zod logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"/>
+  <img width="12" />
+  <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" height="30" alt="hook form logo"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
